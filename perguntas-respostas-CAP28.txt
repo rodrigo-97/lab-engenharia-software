@@ -1,0 +1,20 @@
+1.	Quais os modelos que a certificação para engenharia sala limpa exige?
+a.	Modelo de amostragem
+b.	Modelo de componente 
+c.	Modelo de certificação
+
+
+2.	Defina refinamento horizontal
+R.	Elabora estados do software abstrato para o concreto por meio da adição de detalhamento
+
+
+3.	Por que a integração de código legado complica o uso de métodos formais?
+R.	Pois os requisitos legados podem não ajustar bem ao novo sistema
+
+
+4.	O que é o teste de uso estático?
+R.	Resume-se no teste de software da maneira que os usuários pretendem usá-lo
+
+
+5.	O que é uma caixa de estado?
+R.	Generalização de uma máquina de estado.
